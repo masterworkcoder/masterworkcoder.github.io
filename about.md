@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 # My Projects
-![ratink logo]({{ site.url}}/assets/ratink_logo.png)
+![ratink logo]({{ site.url }}/assets/ratink_logo.png)
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
