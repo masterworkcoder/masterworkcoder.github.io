@@ -13,7 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
         current projects. I program mainly in C and C++ and would love to help
         people for all of their programming needs.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.masterwork-code.com" # the base hostname & protocol for your site
+url: "https://mckinneyaa.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username: mckinneyaa 
 
