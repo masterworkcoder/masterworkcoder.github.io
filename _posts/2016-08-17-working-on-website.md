@@ -4,6 +4,7 @@ title: "Work on Websites"
 date: 2016-08-17 
 author: Aaron McKinney
 catagories: update
+comments: true
 ---
 
 Today I have been working mostly on the design and layout of my websites.
