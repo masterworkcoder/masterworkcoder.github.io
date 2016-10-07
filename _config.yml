@@ -7,14 +7,14 @@
 
 # Site settings
 title: Masterwork Code 
-email: Aaron.mckinney@masterwork-code.com
+email: aaron.mckinney@masterwork-code.com
 description: > # this means to ignore newlines until "baseurl:"
         This is my website. A place where you can see updates for all of my
         current projects. I program mainly in C and C++ and would love to help
         people for all of their programming needs.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mckinneyaa.github.io" # the base hostname & protocol for your site
-twitter_username: jekyllrb
+#twitter_username: jekyllrb
 github_username: mckinneyaa 
 
 # Build settings
