@@ -7,8 +7,8 @@ This is the place to get the most up to date info on my projects. I have been
 coding for about seven years now, and I still love it.
 
 ### My Active Projects
-* [ratink](https://masterwork-code.com/ratink)
-* [fossil_blueprint](https://github.com/mckinneyaa/fossil_blueprint)
+* [ratink](http://masterwork-code.com/ratink)
+* [fossil_blueprint](http://github.com/mckinneyaa/fossil_blueprint)
 
 ratink is a development system that is being developed alongside fossil_blueprint. fossil_blueprint is a toolkit
 for people wanting to create their own programming languages, but just don't know how to get started. Fortunately
